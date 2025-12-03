@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Wonderland",
+  "base_artist": "iri",
+  "createdAt": "2025-12-03T06:32:10.229969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_Wonderland_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Barstool Whiskey Wonderland",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/02_Barstool_Whiskey_Wonderland_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Adventures In Wonderland",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/03_The_Adventures_In_Wonderland_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Into Wonderland - Remastered",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/04_Into_Wonderland_-_Remastered_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into Wonderland",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/05_Into_Wonderland_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WONDERLAND",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/06_WONDERLAND_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WONDERLAND (feat. Ecco2k)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/07_WONDERLAND_(feat._Ecco2k)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alice In Wonderland",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/08_Alice_In_Wonderland_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "Clan of Xymox",
+      "has_synced": false,
+      "path": "select/09_Wonderland_Clan_of_Xymox.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "Xymox",
+      "has_synced": false,
+      "path": "select/10_Wonderland_Xymox.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Winter Wonderland",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/11_Winter_Wonderland_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Winter Wonderland",
+      "artist": "Rick Wilde feat. Kim&Astley",
+      "has_synced": true,
+      "path": "select/12_Winter_Wonderland_Rick_Wilde_feat._Kim&Astley.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Winter Wonderland",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/13_Winter_Wonderland_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wonderland - 2008 Remaster",
+      "artist": "Simply Red",
+      "has_synced": false,
+      "path": "select/14_Wonderland_-_2008_Remaster_Simply_Red.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/15_Wonderland_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Winter Wonderland",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/16_Winter_Wonderland_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "Kate Ryan",
+      "has_synced": false,
+      "path": "select/17_Wonderland_Kate_Ryan.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "Magic Affair",
+      "has_synced": false,
+      "path": "select/18_Wonderland_Magic_Affair.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wonderland",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/19_Wonderland_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderland",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderland_iri.txt"
+    }
+  ]
+}
